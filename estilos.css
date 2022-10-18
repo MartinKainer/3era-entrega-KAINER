@@ -4,6 +4,25 @@ html {
 
 
 /*inicio*/
+.navbar-brand{
+    color: azure;
+}
+
+.navbar-toggler{
+    color: aqua;
+}
+
+
+h1{
+    font-size: x-large;
+}
+h2{
+    font-size: xx-large;
+}
+.card-text-index{
+    font-size: larger;
+}
+
 
 /*anime y manga*/
 
