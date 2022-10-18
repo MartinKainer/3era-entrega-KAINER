@@ -1,0 +1,61 @@
+html {
+    font-size: 62.5%
+}
+
+
+/*inicio*/
+
+/*anime y manga*/
+
+body {
+    background-color: rgb(172, 22, 213);
+}
+
+.title {
+
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.card-block {
+    font-size: 1em;
+    position: relative;
+    margin: 0;
+    padding: 1em;
+    border: none;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: none;
+
+}
+
+.card {
+    font-size: 1em;
+    overflow: hidden;
+    padding: 5;
+    border: none;
+    border-radius: .28571429rem;
+    box-shadow: 0 1px 3px 0 #617a40, 0 0 0 1px #010101;
+    margin-top: 20px;
+    align-items: center;
+}
+
+
+.btn {
+    margin-top: auto;
+}
+
+/*galeria*/
+
+
+
+/* contacto*/
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
