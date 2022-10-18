@@ -1,32 +1,31 @@
 /* line 1, ../3era entregs/scss/estilos.scss */
 html {
-  font-size: 62.5%;
-}
+  font-size: 62.5%; }
 
 /* line 5, ../3era entregs/scss/estilos.scss */
 h1 {
-  font-size: x-large;
-}
+  font-size: x-large; }
 
 /* line 9, ../3era entregs/scss/estilos.scss */
 h2 {
-  font-size: x-large;
-}
+  font-size: x-large; }
+
+/* line 13, ../3era entregs/scss/estilos.scss */
+p {
+  font-size: large; }
 
 /*inicio*/
 /*anime y manga*/
-/* line 18, ../3era entregs/scss/estilos.scss */
-body {
-  background-color: #ac16d5;
-}
-
 /* line 22, ../3era entregs/scss/estilos.scss */
+body {
+  background-color: #ac16d5; }
+
+/* line 26, ../3era entregs/scss/estilos.scss */
 .title {
   margin-bottom: 30px;
-  text-transform: uppercase;
-}
+  text-transform: uppercase; }
 
-/* line 28, ../3era entregs/scss/estilos.scss */
+/* line 32, ../3era entregs/scss/estilos.scss */
 .card-block {
   font-size: 1em;
   position: relative;
@@ -34,10 +33,9 @@ body {
   padding: 1em;
   border: none;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
-  box-shadow: none;
-}
+  box-shadow: none; }
 
-/* line 39, ../3era entregs/scss/estilos.scss */
+/* line 43, ../3era entregs/scss/estilos.scss */
 .card {
   font-size: 1em;
   overflow: hidden;
@@ -46,27 +44,23 @@ body {
   border-radius: .28571429rem;
   box-shadow: 0 1px 3px 0 #617a40, 0 0 0 1px #010101;
   margin-top: 20px;
-  align-items: center;
-}
+  align-items: center; }
 
-/* line 51, ../3era entregs/scss/estilos.scss */
+/* line 55, ../3era entregs/scss/estilos.scss */
 .btn {
-  margin-top: auto;
-}
+  margin-top: auto; }
 
 /*galeria*/
 /* contacto*/
-/* line 60, ../3era entregs/scss/estilos.scss */
+/* line 64, ../3era entregs/scss/estilos.scss */
 .header {
   color: #36A0FF;
   font-size: 27px;
-  padding: 10px;
-}
+  padding: 10px; }
 
-/* line 66, ../3era entregs/scss/estilos.scss */
+/* line 70, ../3era entregs/scss/estilos.scss */
 .bigicon {
   font-size: 35px;
-  color: #36A0FF;
-}
+  color: #36A0FF; }
 
 /*# sourceMappingURL=estilos.css.map */
