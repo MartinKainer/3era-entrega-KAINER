@@ -62,7 +62,7 @@ p {
 /* line 65, ../3era entregs/scss/estilos.scss */
 .movimento:hover {
   transform: scale(1.1);
-  border: 1px solid #e069f5;
+  border: 1px solid #3161f2;
   box-shadow: 0px 0px 50px rgba(53, 53, 53, 0.827); }
 
 /* Contacto */
@@ -80,5 +80,9 @@ p {
 .bigicon {
   font-size: 35px;
   color: #36A0FF; }
+
+/* line 89, ../3era entregs/scss/estilos.scss */
+.form-contact {
+  align-content: center; }
 
 /*# sourceMappingURL=estilos.css.map */
