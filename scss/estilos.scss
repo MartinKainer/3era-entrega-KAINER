@@ -2,16 +2,8 @@ html {
     font-size: 62.5%
 }
 
-h1 {
-    font-size: xx-large;
-}
-
-h2 {
-    font-size: xx-large;
-}
-
-p {
-    font-size: large;
+body {
+    background-color: rgb(172, 22, 213);
 }
 
 .navbar {
@@ -23,12 +15,18 @@ p {
     justify-content: center;
 }
 
-
-body {
-    background-color: rgb(172, 22, 213);
+/*inicio anime y manga cards*/
+h1 {
+    font-size: xx-large;
 }
 
-/*inicio anime y manga cards*/
+h2 {
+    font-size: xx-large;
+}
+
+p {
+    font-size: large;
+}
 
 .title {
 
@@ -58,7 +56,6 @@ body {
     align-items: center;
 }
 
-
 .btn {
     margin-top: auto;
 }
@@ -71,12 +68,18 @@ body {
     box-shadow: 0px 0px 50px rgba(53, 53, 53, 0.827);
 }
 
-/* contacto*/
+/* Contacto */
+
+.titulo-form{
+    font-size: xx-large;
+}
+
 .header {
     color: #36A0FF;
     font-size: 27px;
     padding: 10px;
 }
+
 
 .bigicon {
     font-size: 35px;

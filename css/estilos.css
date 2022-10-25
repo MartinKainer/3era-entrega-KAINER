@@ -3,37 +3,37 @@ html {
   font-size: 62.5%; }
 
 /* line 5, ../3era entregs/scss/estilos.scss */
-h1 {
-  font-size: xx-large; }
+body {
+  background-color: #ac16d5; }
 
 /* line 9, ../3era entregs/scss/estilos.scss */
-h2 {
-  font-size: xx-large; }
-
-/* line 13, ../3era entregs/scss/estilos.scss */
-p {
-  font-size: large; }
-
-/* line 17, ../3era entregs/scss/estilos.scss */
 .navbar {
   font-size: medium; }
 
-/* line 21, ../3era entregs/scss/estilos.scss */
+/* line 13, ../3era entregs/scss/estilos.scss */
 .navbar-collapse {
   align-items: center;
   justify-content: center; }
 
-/* line 27, ../3era entregs/scss/estilos.scss */
-body {
-  background-color: #ac16d5; }
-
 /*inicio anime y manga cards*/
-/* line 33, ../3era entregs/scss/estilos.scss */
+/* line 19, ../3era entregs/scss/estilos.scss */
+h1 {
+  font-size: xx-large; }
+
+/* line 23, ../3era entregs/scss/estilos.scss */
+h2 {
+  font-size: xx-large; }
+
+/* line 27, ../3era entregs/scss/estilos.scss */
+p {
+  font-size: large; }
+
+/* line 31, ../3era entregs/scss/estilos.scss */
 .title {
   margin-bottom: 30px;
   text-transform: uppercase; }
 
-/* line 39, ../3era entregs/scss/estilos.scss */
+/* line 37, ../3era entregs/scss/estilos.scss */
 .card-block {
   font-size: 1em;
   position: relative;
@@ -43,7 +43,7 @@ body {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: none; }
 
-/* line 50, ../3era entregs/scss/estilos.scss */
+/* line 48, ../3era entregs/scss/estilos.scss */
 .card {
   font-size: 1em;
   overflow: hidden;
@@ -54,25 +54,29 @@ body {
   margin-top: 20px;
   align-items: center; }
 
-/* line 62, ../3era entregs/scss/estilos.scss */
+/* line 59, ../3era entregs/scss/estilos.scss */
 .btn {
   margin-top: auto; }
 
 /*galeria*/
-/* line 68, ../3era entregs/scss/estilos.scss */
+/* line 65, ../3era entregs/scss/estilos.scss */
 .movimento:hover {
   transform: scale(1.1);
   border: 1px solid #e069f5;
   box-shadow: 0px 0px 50px rgba(53, 53, 53, 0.827); }
 
-/* contacto*/
-/* line 75, ../3era entregs/scss/estilos.scss */
+/* Contacto */
+/* line 73, ../3era entregs/scss/estilos.scss */
+.titulo-form {
+  font-size: xx-large; }
+
+/* line 77, ../3era entregs/scss/estilos.scss */
 .header {
   color: #36A0FF;
   font-size: 27px;
   padding: 10px; }
 
-/* line 81, ../3era entregs/scss/estilos.scss */
+/* line 84, ../3era entregs/scss/estilos.scss */
 .bigicon {
   font-size: 35px;
   color: #36A0FF; }
